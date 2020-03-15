@@ -2,7 +2,7 @@
 
 Willkommen bei der Praxis für Kinder- und Jugendmedizin, Stiftsallee 22a, 32425 Minden.
 
-# Informationen zum Koronavirus
+# Informationen zum Coronavirus
 
 Hier muss etwas hin.
 
@@ -12,6 +12,7 @@ Nur nach Absprache, nicht einfach vorbeikommen.
 
 # Kontakt
 
+<beck.paedi@gmail.com>  
 Stiftsallee 22a  
 32425 Minden  
 Tel.: 0571/41021  

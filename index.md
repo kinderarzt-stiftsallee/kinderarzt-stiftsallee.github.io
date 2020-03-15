@@ -1,13 +1,12 @@
-# Kinderärztliche Gemeinschaftspraxis
-### Dr. Thea Hitzemann-Becker, Ute Becker & Katrin Beckmann (angest. Ärztin)
+# Informationen zum Koronavirus
 
-## Informationen zum Koronavirus
+Hier muss etwas hin.
 
-## Praxiszeiten
+# Praxiszeiten
 
 Nur nach Absprache.
 
-## Kontakt
+# Kontakt
 
 Stiftsallee 22a
 32425 Minden

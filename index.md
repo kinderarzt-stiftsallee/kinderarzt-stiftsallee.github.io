@@ -8,7 +8,7 @@ Hier muss etwas hin.
 
 # Praxiszeiten
 
-Nur nach Absprache.
+Nur nach Absprache, nicht einfach vorbeikommen.
 
 # Kontakt
 

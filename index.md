@@ -12,7 +12,7 @@ Nur nach Absprache, nicht einfach vorbeikommen.
 
 # Kontakt
 
-<beck.paedi@gmail.com>  
+<kinderarztstiftsallee@gmail.com>  
 Stiftsallee 22a  
 32425 Minden  
 Tel.: 0571/41021  

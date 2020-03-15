@@ -7,7 +7,7 @@
 Dr. med. Thea Hitzemann-Becker  
 Ute Becker
 
-E-Mail: <beck.paedi@gmail.com>  
+E-Mail: <kinderarztstiftsallee@gmail.com>  
 Stiftsallee 22a  
 32425 Minden  
 Tel.: (0571) 41021  

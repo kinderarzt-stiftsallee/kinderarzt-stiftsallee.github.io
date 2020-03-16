@@ -14,7 +14,7 @@ Sollten Sie oder Ihr Kind erkrankt sein und zu einer Risikogruppe gehören (dire
 
 # Praxiszeiten
 
-Montag, Dienstag, Donnerstag: 8.00–12.30 Uhr und 16.00–18.00 Uhr
+Montag, Dienstag, Donnerstag: 8.00–12.30 Uhr und 16.00–18.00 Uhr  
 Mittwoch und Freitag: 8.00–12.30 Uhr
 
 # Kontakt

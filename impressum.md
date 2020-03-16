@@ -33,7 +33,7 @@ Zuständige Kammer: Ärztekammer Westfalen-Lippe, Gartenstraße 210-214, 48147 M
 Verliehen durch: Deutschland
 
 Es gelten folgende berufsrechtliche Regelungen: Berufsordnung der Ärztekammer Westfalen-Lippe  
-Regelungen einsehbar unter: http://www.aekwl.de/index.php?id=213
+Regelungen einsehbar unter: <http://www.aekwl.de/index.php?id=213>
 
 ## Haftung für Inhalte
 

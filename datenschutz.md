@@ -15,7 +15,7 @@ Jedoch ist diese Webseite auf Servern Dritter gehostet, und es werden Inhalte Dr
 
 ## Datenschutzerklärung für die Nutzung von GitHub Pages
 
-Die Seite <www.kinderarzt-stiftsallee.de> ist besuchbar, ohne Angaben zu Ihrer Person zu machen. Gleichwohl werden schon bei dem einfachen Seitenaufruf Informationen zum Zugriff (Datum, Uhrzeit, übertragene Datenmenge, Navigationsherkunft, Browser, Betriebssystem, IP-Adresse) gespeichert. Das Internetangebot wird bei ([Github Inc.](https://www.github.com/), 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA gehostet) gehostet. Der Hoster empfängt zu diesem Zweck folgende, bei jedem Zugriff auf Inhalte des Internetangebotes in sogenannten Protokoll- oder Log-Dateien vorübergehend gespeicherte Daten, die möglicherweise eine Identifizierung zulassen. Folgende Daten werden hierbei erhoben: 
+Die Seite <www.kinderarzt-stiftsallee.de> ist besuchbar, ohne Angaben zu Ihrer Person zu machen. Gleichwohl werden schon bei dem einfachen Seitenaufruf Informationen zum Zugriff (Datum, Uhrzeit, übertragene Datenmenge, Navigationsherkunft, Browser, Betriebssystem, IP-Adresse) gespeichert. Das Internetangebot wird bei [Github Inc.](https://www.github.com/), 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA gehostet. Der Hoster empfängt zu diesem Zweck folgende, bei jedem Zugriff auf Inhalte des Internetangebotes in sogenannten Protokoll- oder Log-Dateien vorübergehend gespeicherte Daten, die möglicherweise eine Identifizierung zulassen. Folgende Daten werden hierbei erhoben: 
 
 * Datum und Uhrzeit des Abrufs 
 * Name des aufgerufenen Internetdienstes, der aufgerufenen Ressource und der verwendeten Aktion
@@ -25,7 +25,7 @@ Die Seite <www.kinderarzt-stiftsallee.de> ist besuchbar, ohne Angaben zu Ihrer P
 * IP-Adresse des aufrufenden Rechners 
 * Clientinformationen (u.a. Browser, Betriebssystem) 
 
-Rechtsgrundlage für die vorübergehende Speicherung dieser Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Die Daten aus den Protokoll- bzw. Logdateien dienen zur Sicherstellung der Funktionsfähigkeit der Website. Zudem dienen sie zur Abwehr und Analyse von Angriffen.
+Rechtsgrundlage für die vorübergehende Speicherung dieser Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Die Daten aus den Protokoll- bzw. Log-Dateien dienen zur Sicherstellung der Funktionsfähigkeit der Website. Zudem dienen sie zur Abwehr und Analyse von Angriffen.
 
 Beachten Sie daher auch die [GitHub Privacy Policy](https://help.github.com/articles/github-privacy-statement/).
 

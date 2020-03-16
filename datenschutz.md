@@ -2,11 +2,11 @@
 
 Für den Datenschutz ist in unserer Praxis verantwortlich:
 
-Gemeinschaftspraxis Dr. med. Thea Hitzemann-Becker und Ute Becker  
-E-Mail: <kinderarztstiftsallee@gmail.com>  
-Stiftsallee 22a  
-32425 Minden  
-Tel.: (0571) 41021  
+Gemeinschaftspraxis Dr. med. Thea Hitzemann-Becker und Ute Becker 
+E-Mail: <kinderarztstiftsallee@gmail.com> 
+Stiftsallee 22a 
+32425 Minden 
+Tel.: (0571) 41021 
 Fax.: (0571) 41022
 
 Die Kinderarztpraxis Hitzemann-Becker, Becker und Beckmann nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Wir selbst erfassen oder speichern keinerlei persönliche Daten über ihren Besuch dieser Webseite. Diese Webseite verwendet keine Cookies.
@@ -15,7 +15,19 @@ Jedoch ist diese Webseite auf Servern Dritter gehostet, und es werden Inhalte Dr
 
 ## Datenschutzerklärung für die Nutzung von GitHub Pages
 
-Diese Website wird auf Servern von [Github Inc.](https://www.github.com/), 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA gehostet. Beachten Sie daher auch die [GitHub Privacy Policy](https://help.github.com/articles/github-privacy-statement/).
+Die Seite <www.kinderarzt-stiftsallee.de> ist besuchbar, ohne Angaben zu Ihrer Person zu machen. Gleichwohl werden schon bei dem einfachen Seitenaufruf Informationen zum Zugriff (Datum, Uhrzeit, übertragene Datenmenge, Navigationsherkunft, Browser, Betriebssystem, IP-Adresse) gespeichert. Das Internetangebot wird bei ([Github Inc.](https://www.github.com/), 88 Colin P Kelly Jr St, San Francisco, CA 94107, USA gehostet) gehostet. Der Hoster empfängt zu diesem Zweck folgende, bei jedem Zugriff auf Inhalte des Internetangebotes in sogenannten Protokoll- oder Log-Dateien vorübergehend gespeicherte Daten, die möglicherweise eine Identifizierung zulassen. Folgende Daten werden hierbei erhoben: 
+
+* Datum und Uhrzeit des Abrufs 
+* Name des aufgerufenen Internetdienstes, der aufgerufenen Ressource und der verwendeten Aktion
+* Abfrage, die die Person (Client) gestellt hat
+* übertragene Datenmenge
+* Meldung, ob der Abruf erfolgreich war 
+* IP-Adresse des aufrufenden Rechners 
+* Clientinformationen (u.a. Browser, Betriebssystem) 
+
+Rechtsgrundlage für die vorübergehende Speicherung dieser Daten ist Art. 6 Abs. 1 lit. f DS-GVO. Die Daten aus den Protokoll- bzw. Logdateien dienen zur Sicherstellung der Funktionsfähigkeit der Website. Zudem dienen sie zur Abwehr und Analyse von Angriffen.
+
+Beachten Sie daher auch die [GitHub Privacy Policy](https://help.github.com/articles/github-privacy-statement/).
 
 ## Datenschutzerklärung für die Nutzung von Google Web Fonts
 

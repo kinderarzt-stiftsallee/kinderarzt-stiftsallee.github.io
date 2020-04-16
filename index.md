@@ -10,7 +10,7 @@ Nur Patienten, die vorher mit uns einen Termin vereinbart haben, haben Zutritt z
 Tel. 057141021  
 Email-Adresse: <kinderarztstiftsallee@gmail.com>  
 
-Sollten Sie oder Ihr Kind erkrankt sein und zu einer Risikogruppe gehören (direkter Kontakt zu einer Person mit nachgewiesener Coronavirus Infektion oder Zustand nach Aufenthalt in Risikogebieten), dann wenden Sie sich bitte telefonisch an die 116117 oder an das Bürger Telefon des Kreises Minden Lübbecke unter 05718071599. In diesem Fall betreten Sie die Praxis bitte unter keinen Umständen.
+Sollten Sie oder Ihr Kind erkrankt sein und zu einer Risikogruppe gehören (direkter Kontakt zu einer Person mit nachgewiesener Coronavirus Infektion), dann wenden Sie sich bitte telefonisch an die 116117 oder an das Bürger Telefon des Kreises Minden Lübbecke unter 05718071599. In diesem Fall betreten Sie die Praxis bitte unter keinen Umständen.
 
 # Praxiszeiten
 

@@ -4,7 +4,7 @@ Liebe Patienten, liebe Eltern wir begrüßen Sie ganz herzlich auf unserer Inter
 
 # Informationen zum Coronavirus
 
-Aufgrund der außergewöhnlichen Umstände—die Corona-Virus-Pandemie—findet haben wir die Organisation unserer Praxis geändert. 
+Aufgrund der außergewöhnlichen Umstände—die Corona-Virus-Pandemie—haben wir die Organisation unserer Praxis geändert. 
 Nur Patienten, die vorher mit uns einen Termin vereinbart haben, haben Zutritt zur Praxis. Dabei ist jetzt das Tragen eines Mund-Nasen-Schutzes für Erwachsene und Kinder ab sechs Jahre vorgeschrieben. Bitte rufen Sie uns an oder schreiben uns eine E-Mail zur Terminbesprechung.
 
 Tel. 057141021  

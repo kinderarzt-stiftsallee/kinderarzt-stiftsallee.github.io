@@ -2,6 +2,15 @@
 
 Liebe Patienten, liebe Eltern wir begrüßen Sie ganz herzlich auf unserer Internetseite.
 
+# Urlaub 
+
+Wir haben vom Freitag, dem 03.07. bis einschließlich 17.7.2020 geschlossen!
+Unsere Vertretungspraxen sind:
+- Praxis Dr. Boss, Hardenbergstrasse 10, Tel. 0571-23030
+- Praxis Tissen, Am Exerzierplatz 5, Tel 0571-31279
+
+Ab Montag, dem 20.07.2020 sind wir wieder für Sie da!
+
 # Informationen zum Coronavirus
 
 Aufgrund der außergewöhnlichen Umstände—die Corona-Virus-Pandemie—haben wir die Organisation unserer Praxis geändert. 

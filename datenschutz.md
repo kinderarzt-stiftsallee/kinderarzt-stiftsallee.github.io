@@ -2,7 +2,7 @@
 
 Für den Datenschutz ist in unserer Praxis verantwortlich:
 
-Gemeinschaftspraxis Dr. med. Thea Hitzemann-Becker und Ute Becker 
+Gemeinschaftspraxis Ute Becker und Katrin Beckmann 
 E-Mail: <kinderarztstiftsallee@gmail.com> 
 Stiftsallee 22a 
 32425 Minden 

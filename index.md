@@ -11,6 +11,7 @@ Tel. 0571-41021
 Email-Adresse: <kinderarztstiftsallee@gmail.com>  
 
 Sollten Sie oder Ihr Kind erkrankt sein und zu einer Risikogruppe gehören (direkter Kontakt zu einer Person mit nachgewiesener Coronavirus Infektion), bitten wir Sie dieses unbedingt bei der telephonischen Anmeldung zu sagen, damit wir Hygienemaßnahmen vornehmen können. In diesem Fall sollten alle erkrankten Kinder (unabhängig ihres Alters) einen Mund-Nasenschutz tragen!
+
 Ebenso ist es wichtig zu erwähnen, falls Sie aus einem Risikoland zurückkommen.
 
 # Praxiszeiten
@@ -21,7 +22,8 @@ Mittwoch und Freitag: 8.00–12.30 Uhr
 # Telefonsprechzeiten
 
 Montag bis Freitag Vormittag: 9.00 - 11.30 Uhr
-Montag,  Dienstag und Donnerstag: 16.00 - 18.00 Uhr
+
+Montag, Dienstag und Donnerstag: 16.00 - 18.00 Uhr
 
 # Kontakt
 

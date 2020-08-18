@@ -4,8 +4,8 @@
 
 ### Anbieter der Internetseite
 
-Dr. med. Thea Hitzemann-Becker  
 Ute Becker
+Katrin Beckmann 
 
 E-Mail: <kinderarztstiftsallee@gmail.com>  
 Stiftsallee 22a  

@@ -17,11 +17,13 @@ Ebenso ist es wichtig zu erwähnen, falls Sie aus einem Risikoland zurückkommen
 # Praxiszeiten
 
 Montag bis Freitag: 8.00 – 12.30 Uhr
+
 Montag, Dienstag und Donnerstag: 16.00 - 18.00 Uhr
 
 # Telefonsprechzeiten
 
 Montag bis Freitag: 9.00 - 11.30 Uhr
+
 Montag, Dienstag und Donnerstag: 16.00 - 18.00 Uhr
 
 # Kontakt

@@ -4,7 +4,7 @@
 
 ### Anbieter der Internetseite
 
-Ute Becker
+Ute Becker, 
 Katrin Beckmann 
 
 E-Mail: <kinderarztstiftsallee@gmail.com>  

@@ -22,7 +22,6 @@ Mittwoch und Freitag: 8.00–12.30 Uhr
 # Telefonsprechzeiten
 
 Montag bis Freitag Vormittag: 9.00 - 11.30 Uhr
-
 Montag, Dienstag und Donnerstag: 16.00 - 18.00 Uhr
 
 # Kontakt

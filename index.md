@@ -22,9 +22,9 @@ Montag, Dienstag und Donnerstag: 16.00 - 18.00 Uhr
 
 # Telefonsprechzeiten
 
-Montag bis Freitag: 9.00 - 11.30 Uhr
+Montag bis Freitag: 8.00 - 11.00 Uhr
 
-Montag, Dienstag und Donnerstag: 16.00 - 18.00 Uhr
+Montag, Dienstag und Donnerstag: 15.00 - 17.00 Uhr
 
 # Kontakt
 

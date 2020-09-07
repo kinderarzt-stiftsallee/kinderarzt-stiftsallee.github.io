@@ -18,7 +18,7 @@ Ebenso ist es wichtig zu erwähnen, falls Sie aus einem Risikoland zurückkommen
 
 Montag bis Freitag: 8.00 – 12.30 Uhr
 
-Montag, Dienstag und Donnerstag: 16.00 - 18.00 Uhr
+Montag, Dienstag und Donnerstag: 15.00 - 18.00 Uhr
 
 # Telefonsprechzeiten
 

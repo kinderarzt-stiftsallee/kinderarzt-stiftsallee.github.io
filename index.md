@@ -16,7 +16,7 @@ Ebenso ist es wichtig zu erwähnen, falls Sie aus einem Risikoland zurückkommen
 
 # Informationen zum Schul- und Kindergartenbesuch bei Infekten
 
-Das Schulministerium und das Gesundheitsministerium haben eine Handlungsempfehlung zum Thema Krankheitssymptome bei Kindergarten- und Schulkindern herausgegeben. (Informieren Sie sich hier)[https://www.schulministerium.nrw.de/themen/schulsystem/elterninfo-wenn-mein-kind-zuhause-erkrankt-handlungsempfehlung]
+Das Schulministerium und das Gesundheitsministerium haben eine Handlungsempfehlung zum Thema Krankheitssymptome bei Kindergarten- und Schulkindern herausgegeben. [Informieren Sie sich hier](https://www.schulministerium.nrw.de/themen/schulsystem/elterninfo-wenn-mein-kind-zuhause-erkrankt-handlungsempfehlung)
 # Praxiszeiten
 
 Montag bis Freitag: 8.00 – 12.30 Uhr

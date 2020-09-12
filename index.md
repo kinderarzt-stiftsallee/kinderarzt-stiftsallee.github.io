@@ -14,6 +14,10 @@ Sollten Sie oder Ihr Kind erkrankt sein und zu einer Risikogruppe gehören (dire
 
 Ebenso ist es wichtig zu erwähnen, falls Sie aus einem Risikoland zurückkommen.
 
+# Informationen zum Schul- und Kindergartenbesuch bei Infekten
+
+Das Schulministerium und das Gesundheitsministerium haben eine Handlungsempfehlung zum Thema Krankheitssymptome bei Kindergarten- und Schulkindern herausgegeben. (Informieren Sie sich hier)
+
 # Praxiszeiten
 
 Montag bis Freitag: 8.00 – 12.30 Uhr

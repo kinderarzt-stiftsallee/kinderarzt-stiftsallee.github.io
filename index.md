@@ -12,8 +12,6 @@ Email-Adresse: <kinderarztstiftsallee@gmail.com>
 
 Sollten Sie oder Ihr Kind erkrankt sein und zu einer Risikogruppe gehören (direkter Kontakt zu einer Person mit nachgewiesener Coronavirus Infektion), bitten wir Sie dieses unbedingt bei der telephonischen Anmeldung zu sagen, damit wir Hygienemaßnahmen vornehmen können. In diesem Fall sollten alle erkrankten Kinder (unabhängig ihres Alters) einen Mund-Nasenschutz tragen!
 
-Ebenso ist es wichtig zu erwähnen, falls Sie aus einem Risikoland zurückkommen.
-
 # Informationen zum Schul- und Kindergartenbesuch bei Infekten
 
 Das Schulministerium und das Gesundheitsministerium haben eine Handlungsempfehlung zum Thema Krankheitssymptome bei Kindergarten- und Schulkindern herausgegeben. [Informieren Sie sich hier](https://www.schulministerium.nrw.de/themen/schulsystem/elterninfo-wenn-mein-kind-zuhause-erkrankt-handlungsempfehlung)

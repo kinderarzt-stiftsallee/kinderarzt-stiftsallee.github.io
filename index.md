@@ -2,15 +2,23 @@
 
 Liebe Patienten, liebe Eltern wir begrüßen Sie ganz herzlich auf unserer Internetseite.
 
+# Corona Schnelltest vor Weihnachten 
+
+Wir möchten Ihnen in dieser Pandemie Zeit anbieten einen Schnelltest auf das Coronavirus in unserer Praxis durchführen zu lassen. 
+
+Weihnachten steht vor der Tür und wir wollen mit unseren Familien zusammen Weihnachten verbringen. Allerdings möchten wir niemanden gefährden und diese Gratwanderung  ist nicht einfach. Mit einem Corona Schnelltest weiß man innerhalb von 20 Minuten, ob man Covid-19 hat und ansteckend ist! Allerdings ist dabei zu beachten, dass es nur eine Momentaufnahme darstellt und man am nächsten Tag wohlmöglich plötzlich ansteckend ist! Ebenso gibt es falsch-negative Ergebnisse, in denen der Test ein negatives Ergebnis (also nicht ansteckend) anzeigt, man aber eigentlich doch ansteckend ist! Trotzdem ist der Test eine Hilfe bei der Entscheidung, wie man Weihnachten feiern sollte.
+
+Wir bieten Ihnen den **Corona Schnelltest für 40 Euro nach vorheriger Anmeldung** an! Die Krankenkassen übernehmen den Test nicht,  sodass Sie von uns eine Arztrechnung nach der GOÄ über 40 Euro bekommen,  die Sie bitte gleich in der Praxis begleichen. 
+
+
 # Informationen zum Coronavirus
 
 Aufgrund der außergewöhnlichen Umstände—die Corona-Virus-Pandemie—haben wir die Organisation unserer Praxis geändert. 
-Nur Patienten, die vorher mit uns einen Termin vereinbart haben, haben Zutritt zur Praxis. Dabei ist das Tragen eines Mund-Nasen-Schutzes für Erwachsene und Kinder ab sechs Jahre vorgeschrieben. Bitte rufen Sie uns an oder schreiben uns eine E-Mail zur Terminbesprechung.
+Nur Patienten, die vorher mit uns einen Termin vereinbart haben, haben Zutritt zur Praxis. Dabei ist das Tragen eines Mund-Nasen-Schutzes für Erwachsene und Kinder ab sechs Jahre vorgeschrieben. Bitte rufen Sie uns an oder schreiben uns eine E-Mail zur Terminbesprechung. 
+Sollte Ihr Kind Kontakt zu einem bestätigten Corona Patienten gehabt haben,  bitten wir Sie auch bei Kindern unter 6 Jahren einen Mund-Nasenschutz zu verwenden!
 
 Tel. 0571-41021  
 Email-Adresse: <kinderarztstiftsallee@gmail.com>  
-
-Sollten Sie oder Ihr Kind erkrankt sein und zu einer Risikogruppe gehören (direkter Kontakt zu einer Person mit nachgewiesener Coronavirus Infektion), bitten wir Sie dieses unbedingt bei der telephonischen Anmeldung zu sagen, damit wir Hygienemaßnahmen vornehmen können. In diesem Fall sollten alle erkrankten Kinder (unabhängig ihres Alters) einen Mund-Nasenschutz tragen!
 
 # Informationen zum Schul- und Kindergartenbesuch bei Infekten
 

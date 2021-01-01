@@ -2,11 +2,19 @@
 
 Liebe Patienten, liebe Eltern wir begrüßen Sie ganz herzlich auf unserer Internetseite.
 
-# Corona Schnelltest vor Weihnachten 
+# Wir haben Urlaub!
+
+Wir sind bis zum 10. Januar 2021 im Urlaub. Vertreten werden wir durch:
+- Praxis Boss, Hardenbergstrasse 10 in Minden,  Telefon  0571 - 23030
+- Praxis Pagel, Marienstraße 28a in Minden,  Telefon 0571 - 26077
+
+Ab dem 11. Januar 2021 sind wir wieder für Sie da!
+
+# Corona Schnelltest
 
 Wir möchten Ihnen in dieser Pandemie Zeit anbieten einen Schnelltest auf das Coronavirus in unserer Praxis durchführen zu lassen. 
 
-Weihnachten steht vor der Tür und wir wollen mit unseren Familien zusammen Weihnachten verbringen. Allerdings möchten wir niemanden gefährden und diese Gratwanderung  ist nicht einfach. Mit einem Corona Schnelltest weiß man innerhalb von 20 Minuten, ob man Covid-19 hat und ansteckend ist! Allerdings ist dabei zu beachten, dass es nur eine Momentaufnahme darstellt und man am nächsten Tag wohlmöglich plötzlich ansteckend ist! Ebenso gibt es falsch-negative Ergebnisse, in denen der Test ein negatives Ergebnis (also nicht ansteckend) anzeigt, man aber eigentlich doch ansteckend ist! Trotzdem ist der Test eine Hilfe bei der Entscheidung, wie man Weihnachten feiern sollte.
+Mit einem Corona Schnelltest weiß man innerhalb von 20 Minuten, ob man Covid-19 hat und ansteckend ist! Allerdings ist dabei zu beachten, dass es nur eine Momentaufnahme darstellt und man am nächsten Tag wohlmöglich plötzlich ansteckend ist! Ebenso gibt es falsch-negative Ergebnisse, in denen der Test ein negatives Ergebnis (also nicht ansteckend) anzeigt, man aber eigentlich doch ansteckend ist.
 
 Wir bieten Ihnen den **Corona Schnelltest für 40 Euro nach vorheriger Anmeldung** an! Die Krankenkassen übernehmen den Test nicht,  sodass Sie von uns eine Arztrechnung nach der GOÄ über 40 Euro bekommen,  die Sie bitte gleich in der Praxis begleichen. 
 

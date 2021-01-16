@@ -17,6 +17,7 @@ Wir bieten Ihnen den **Corona Schnelltest für 40 Euro nach vorheriger Anmeldung
 
 Aufgrund der außergewöhnlichen Umstände—die Corona-Virus-Pandemie—haben wir die Organisation unserer Praxis geändert. 
 Nur Patienten, die vorher mit uns einen Termin vereinbart haben, haben Zutritt zur Praxis. Dabei ist das Tragen eines Mund-Nasen-Schutzes für Erwachsene und Kinder ab sechs Jahre vorgeschrieben. Bitte rufen Sie uns an oder schreiben uns eine E-Mail zur Terminvereinbarung. 
+
 Sollte Ihr Kind Kontakt zu einem bestätigten Corona Patienten gehabt haben,  bitten wir Sie auch bei Kindern unter 6 Jahren einen Mund-Nasenschutz zu verwenden!
 
 Tel. 0571-41021  

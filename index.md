@@ -1,14 +1,8 @@
 # Willkommen
 
-Liebe Patienten, liebe Eltern wir begrüßen Sie ganz herzlich auf unserer Internetseite.
+Liebe Familien, liebe Patienten!
 
-# Wir haben Urlaub!
-
-Wir sind bis zum 10. Januar 2021 im Urlaub. Vertreten werden wir durch:
-- Praxis Boss, Hardenbergstrasse 10 in Minden,  Telefon  0571 - 23030
-- Praxis Pagel, Marienstraße 28a in Minden,  Telefon 0571 - 26077
-
-Ab dem 11. Januar 2021 sind wir wieder für Sie da!
+Wir begrüßen Sie ganz herzlich auf unserer Homepage. Hier erhalten Sie Informationen zur Praxis, Neuigkeiten und im Falle von Urlaub Hinweise auf unsere Vertretungspraxen.
 
 # Corona Schnelltest
 

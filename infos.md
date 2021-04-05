@@ -12,11 +12,11 @@
 
 Falls Sie die Möglichkeit haben die entsprechenden Fragebögen auszudrucken, könnten Sie die Fragebögen vor der Untersuchung in Ruhe Zuhause bearbeiten, 
 
-* Fragebogen zur Sprachentwicklung bei der U7 für 2-jährige Kinder
+* [Fragebogen zur Sprachentwicklung bei der U7 für 2-jährige Kinder]https://www.kinderaerzte-im-netz.de/media/54b7ee0433af613d8a0150bb/source/fragebogen_u10..pdf
 
-* Fragebogen zur Sprachentwicklung bei der U7a für 3-jährige Kinder 
+* [Fragebogen zur Sprachentwicklung bei der U7a für 3-jährige Kinder] 
 
-* Fragebogen bei der U10 für 7 bis 8 Jahre alte Kinder
+* [Fragebogen bei der U10 für 7 bis 8 Jahre alte Kinder]
 
-* Fragebogen bei der U11 für 9 bis 10 Jahre alte Kinder
+* [Fragebogen bei der U11 für 9 bis 10 Jahre alte Kinder]
 

@@ -4,13 +4,9 @@ Liebe Familien, liebe Patienten!
 
 Wir begrüßen Sie ganz herzlich auf unserer Homepage. Hier erhalten Sie Informationen zur Praxis, Neuigkeiten und im Falle von Urlaub Hinweise auf unsere Vertretungspraxen.
 
-# Corona Schnelltest
+# Abschied von Frau Dr med Hitzemann-Becker 
 
-Wir möchten Ihnen in dieser Pandemie Zeit anbieten einen Schnelltest auf das Coronavirus in unserer Praxis durchführen zu lassen. 
-
-Mit einem Corona Schnelltest weiß man innerhalb von 20 Minuten, ob man Covid-19 hat und ansteckend ist! Allerdings ist dabei zu beachten, dass es nur eine Momentaufnahme darstellt und man am nächsten Tag wohlmöglich plötzlich ansteckend ist! Ebenso gibt es falsch-negative Ergebnisse, in denen der Test ein negatives Ergebnis (also nicht ansteckend) anzeigt, man aber eigentlich doch ansteckend ist.
-
-Wir bieten Ihnen den **Corona Schnelltest für 40 Euro nach vorheriger Anmeldung** an! Die Krankenkassen übernehmen den Test nicht,  sodass Sie von uns eine Arztrechnung nach der GOÄ über 40 Euro bekommen,  die Sie bitte gleich in der Praxis begleichen. 
+Seit 1992 hat sich Frau Dr Thea Hitzemann-Becker als niedergelassene Kinderärztin um das Wohl Ihrer Kinder gekümmert und Sie als Familien in ruhigen und auch turbulenten Zeiten begleitet. Jetzt ist es Zeit "DANKE" zu sagen und Ihr viel Freude und Energie für die kommenden Lebensphase zu wünschen!
 
 
 # Informationen zum Coronavirus

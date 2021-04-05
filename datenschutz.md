@@ -9,7 +9,7 @@ Stiftsallee 22a
 Tel.: (0571) 41021 
 Fax.: (0571) 41022
 
-Die Kinderarztpraxis Hitzemann-Becker, Becker und Beckmann nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Wir selbst erfassen oder speichern keinerlei persönliche Daten über ihren Besuch dieser Webseite. Diese Webseite verwendet keine Cookies.
+Die Kinderarztpraxis Becker und Beckmann nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Wir selbst erfassen oder speichern keinerlei persönliche Daten über ihren Besuch dieser Webseite. Diese Webseite verwendet keine Cookies.
 
 Jedoch ist diese Webseite auf Servern Dritter gehostet, und es werden Inhalte Dritter von externen Webseiten eingebunden. Dies setzt immer voraus, dass die jeweiligen Anbieter die IP-Adresse der Nutzer wahrnehmen. Denn ohne die IP-Adresse könnten sie Inhalte nicht an den Browser des jeweiligen Nutzers senden. Die IP-Adresse ist für die Darstellung der Inhalte erforderlich. Wir haben leider keinen Einfluss darauf, falls die Dritt-Anbieter die IP-Adresse z.B. für statistische Zwecke speichern. Soweit uns dieses bekannt ist, klären wir die Nutzer darüber auf.
 

@@ -6,7 +6,8 @@ Wir begrüßen Sie ganz herzlich auf unserer Homepage. Hier erhalten Sie Informa
 
 # Abschied von Frau Dr med Hitzemann-Becker 
 
-Seit 1992 hat sich Frau Dr Thea Hitzemann-Becker als niedergelassene Kinderärztin um das Wohl Ihrer Kinder gekümmert und Sie als Familien in ruhigen und auch turbulenten Zeiten begleitet. Jetzt ist es Zeit "DANKE" zu sagen und ihr viel Freude und Energie für die kommenden Lebensphase zu wünschen!
+Seit 1992 hat sich Frau Dr Thea Hitzemann-Becker als niedergelassene Kinderärztin um das Wohl Ihrer Kinder gekümmert und Sie als Familien in ruhigen und auch turbulenten Zeiten begleitet. 
+Jetzt ist es Zeit "DANKE" zu sagen und ihr viel Freude und Energie für die kommenden Lebensphase zu wünschen!
 
 
 # Informationen zum Coronavirus

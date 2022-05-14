@@ -2,7 +2,9 @@
 
 Liebe Familien, liebe Patienten!
 
-Wir begrüßen Sie ganz herzlich auf unserer Homepage. Hier erhalten Sie Informationen zur Praxis, Neuigkeiten und im Falle von Urlaub Hinweise auf unsere Vertretungspraxen.
+Wir begrüßen Sie ganz herzlich in unserer Praxis für Kinderheilkunde und Kinderkardiologie. Frau Becker, Frau Beckmann und Herr Kirchner kümmern sich freundlich und kompetent um Ihre Kinder, auch bei speziellen Problemen mit dem Herzen.
+Wir sind eine fröhliche Kinderarztpraxis mit breit gefächertem Leistungsspektrum der gesamten Kinder- und Jugendmedizin mit dem Schwerpunkt Kinderkardiologie.
+
 
 Mai 2022
 # NEU: Online Terminvergabe

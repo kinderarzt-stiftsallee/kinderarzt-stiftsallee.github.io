@@ -5,6 +5,7 @@ Liebe Familien, liebe Patienten!
 Wir begrüßen Sie ganz herzlich in unserer Praxis für Kinderheilkunde und Kinderkardiologie. Frau Becker, Frau Beckmann und Herr Kirchner kümmern sich freundlich und kompetent um Ihre Kinder, auch bei speziellen Problemen mit dem Herzen.
 Wir sind eine fröhliche Kinderarztpraxis mit breit gefächertem Leistungsspektrum der gesamten Kinder- und Jugendmedizin mit dem Schwerpunkt Kinderkardiologie.
 
+<a href="https://www.doctolib.de/gemeinschaftspraxis/minden/kinderaerztinnen-minden?utm_campaign=website-button&amp;utm_source=kinderaerztinnen-minden-website-button&amp;utm_medium=referral&amp;utm_content=option-8&amp;utm_term=kinderaerztinnen-minden" style="position:fixed;top:180px;z-index: 10000000;right:0;display:block;text-align:center;opacity: 0.85;background-color:#0596de;color:#ffffff;font-size:14px;overflow:hidden;width:70px;border-radius:4px 0 0 4px;text-decoration:none;padding:10px;line-height:1.4" rel="noopener noreferrer" target="_blank"><span style="font-size:14px">Termin<br> online buchen</span><img style="height:15px;margin-top:10px;vertical-align:middle;width:auto" src="https://www.doctolib.de/external_button/doctolib-white-transparent.png" alt="Doctolib"></a> 
 
 Mai 2022
 # NEU: Online Terminvergabe

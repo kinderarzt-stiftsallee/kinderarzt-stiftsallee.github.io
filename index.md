@@ -7,22 +7,23 @@ Wir sind eine fröhliche Kinderarztpraxis mit breit gefächertem Leistungsspektr
  
  
  
-September 2022
 # Covid Booster Impfung
+
+September 2022
 Wir haben wieder mit den Covid Impfungen gestartet! Für den Booster benutzen wir den angepassten Impfstoff von BionTech. Wenn Ihre letzte Impfung oder Covid Erkrankung mehr als 6 Monate her ist, buchen Sie online einen Termin! Dieser angepasste Booster wird ab 12 Jahren empfohlen. Für weitere Informationen über die aktuelle Impfempfehlung schauen sie bitte [hier](https://www.rki.de/DE/Content/Infekt/Impfen/ImpfungenAZ/COVID-19/Impfempfehlung-Zusfassung.html) nach.
 
 
 
-Juli 2022
 # Online Terminvergabe
 
+Juli 2022
 Ab sofort bieten wir Ihnen die Möglichkeit der Online Terminvergabe an! Klicken Sie einfach auf den blauen Button rechts auf der Seite und Sie werden zu Doctolib weitergeleitet, wo Sie bequem einen Termin buchen können!
 
 
 
-März 2021
 # Abschied von Frau Dr med Hitzemann-Becker 
 
+März 2021
 Seit 1992 hat sich Frau Dr Thea Hitzemann-Becker als niedergelassene Kinderärztin um das Wohl Ihrer Kinder gekümmert und Sie als Familien in ruhigen und auch turbulenten Zeiten begleitet. 
 Jetzt ist es Zeit "DANKE" zu sagen und ihr viel Freude und Energie für die kommenden Lebensphase zu wünschen!
 

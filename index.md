@@ -5,11 +5,16 @@ Liebe Familien, liebe Patienten!
 Wir begrüßen Sie ganz herzlich in unserer Praxis für Kinderheilkunde und Kinderkardiologie. Frau Becker, Frau Beckmann und Herr Kirchner kümmern sich freundlich und kompetent um Ihre Kinder, auch bei speziellen Problemen mit dem Herzen.
 Wir sind eine fröhliche Kinderarztpraxis mit breit gefächertem Leistungsspektrum der gesamten Kinder- und Jugendmedizin mit dem Schwerpunkt Kinderkardiologie.
  
+September 2022
+# Covid Booster Impfung
+Wir haben wieder mit den Covid Impfungen gestartet! Für den Booster benutzen wir den angepassten Impfstoff von BionTech. Wenn Ihre letzte Impfung oder Covid Erkrankung mehr als 6 Monate her ist, buchen Sie online einen Termin! Dieser angepasste Booster wird ab 12 Jahren empfohlen. Für weitere Informationen über die aktuelle Impfempfehlung schauen sie bitte [hier](https://www.rki.de/DE/Content/Infekt/Impfen/ImpfungenAZ/COVID-19/Impfempfehlung-Zusfassung.html) nach.
 
-Mai 2022
-# NEU: Online Terminvergabe
 
-In Kürze werden wir Ihnen die Möglichkeit der Online Terminvergabe anbieten können! Informieren Sie sich ab Mitte Juni hier auf der Homepage.
+
+Juli 2022
+# Online Terminvergabe
+
+Ab sofort bieten wir Ihnen die Möglichkeit der Online Terminvergabe an! Klicken Sie einfach auf den blauen Button rechts auf der Seite und Sie werden zu Doctolib weitergeleitet, wo Sie bequem einen Termin buchen können!
 
 
 

@@ -27,11 +27,7 @@ Seit 1992 hat sich Frau Dr Thea Hitzemann-Becker als niedergelassene Kinderärzt
 Jetzt ist es Zeit "DANKE" zu sagen und ihr viel Freude und Energie für die kommenden Lebensphase zu wünschen!
 
 
-# Informationen zum Schul- und Kindergartenbesuch bei Infekten
 
-Das Schulministerium und das Gesundheitsministerium haben eine Handlungsempfehlung zum Thema Krankheitssymptome bei Kindergarten- und Schulkindern herausgegeben. [Informieren Sie sich hier](https://www.schulministerium.nrw.de/themen/schulsystem/elterninfo-wenn-mein-kind-zuhause-erkrankt-handlungsempfehlung)
-
-[Elterninformation des Ministeriums zur Frage nach Schul- und Kindergartenbesuch mit Erkältungssymptomen vom 28.07.2020](https://www.mkffi.nrw/sites/default/files/asset/document/20200728_offizielle_information_land_nrw_krankheitssymptome.pdf)
 # Praxiszeiten
 
 Montag bis Freitag: 8.00 – 12.30 Uhr

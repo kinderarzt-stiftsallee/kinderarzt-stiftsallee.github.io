@@ -7,7 +7,7 @@ Wir sind eine fröhliche Kinderarztpraxis mit breit gefächertem Leistungsspektr
 
 
 
- ## sehr zu empfehlender Podcast
+# sehr zu empfehlender Podcast
  
  Januar 2023
  In einem von mir sehr geschätztem Podcast über Aromatherapie und andere naturheilkundliche Verfahren haben Eliane Zimmerman und Sabrina Herber mit einer Apothekerin über das Thema "Kind kank-Apotheke leer" gesprochen. Dort werden sehr viele Tipps gegeben, wie man sein Kind bei Infekten begleiten kann. [Hören Sie rein!](https://open.spotify.com/episode/7bnRXPRoiCvh27Hq3zSBGJ?si=P0fDkVAhTCe8ozx-F9tZAg) 

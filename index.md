@@ -10,7 +10,6 @@ Wir sind eine fröhliche Kinderarztpraxis mit breit gefächertem Leistungsspektr
  Januar 2023
  In einem von mir sehr geschätztem Podcast über Aromatherapie und andere naturheilkundliche Verfahren haben Eliane Zimmerman und Sabrina Herber mit einer Apothekerin über das Thema "Kind kank-Apotheke leer" gesprochen. Dort werden sehr viele Tipps gegeben, wie man sein Kind bei Infekten begleiten kann. [Hören Sie rein!](https://open.spotify.com/episode/7bnRXPRoiCvh27Hq3zSBGJ?si=P0fDkVAhTCe8ozx-F9tZAg)
  
-![Bild](cid:8EE02F65-BC54-4F15-ABF1-90298EA8B0A5)
  
 # Covid Booster Impfung
 
